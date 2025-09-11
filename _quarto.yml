@@ -4,8 +4,8 @@ project:
 website: 
   page-navigation: true
   title: "NOAA quarto simple" 
-  site-url: "https://nmfs-opensci.github.io/NOAA-quarto-simple" 
-  repo-url: "https://github.com/nmfs-opensci/NOAA-quarto-simple"
+  site-url: "https://isabellagarfield.github.io/Shared_Seas_Lab_Manual/" 
+  repo-url: "https://github.com/IsabellaGarfield/Shared_Seas_Lab_Manual"
   repo-actions: [edit, source, issue]
   favicon: images/favicon.ico
   
@@ -15,7 +15,7 @@ website:
   
   sidebar:
     background: "#D9E3E4"
-    logo: "https://raw.githubusercontent.com/nmfs-opensci/assets/main/logo/nmfs-opensci-logo3.png"
+    logo: images/boats.jpeg
     favicon: images/favicon.ico
     pinned: true
     align: center
