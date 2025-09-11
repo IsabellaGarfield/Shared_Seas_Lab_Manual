@@ -1,6 +1,5 @@
 ---
-title: "NOAA quarto simple with R"
-subtitle: "A simple Quarto webpage with a book layout"
+title: "Shared Seas Lab: Lab Manual"
 page-layout: full
 ---
 
