@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Shared Seas Lab: Lab Manual",
     "section": "",
-    "text": "Welcome to the Shared Seas Lab!\nThis site serves as the comprehensive lab manual for the Shared Seas Lab, located on UMass Dartmouth’s School for Marine Science and Technology campus with the Department of Fisheries Oceanography (DFO).",
+    "text": "Welcome to the Shared Seas Lab!\nThis site serves as the comprehensive lab manual for the Shared Seas Lab, located on UMass Dartmouth’s School for Marine Science and Technology campus within the Department of Fisheries Oceanography (DFO).\nThe Shared Seas Lab uses interdisciplinary approaches to identify and implement mobulid bycatch mitigation strategies for eastern Pacific tuna fisheries.",
     "crumbs": [
       "Home"
     ]
@@ -14,9 +14,39 @@
     "href": "index.html#team-members",
     "title": "Shared Seas Lab: Lab Manual",
     "section": "Team Members",
-    "text": "Team Members\n\nPrinciple Investigator\n\n\n\n\n\n\nMelissa Cronin",
+    "text": "Team Members\n\nPrinciple Investigator: Melissa Cronin",
     "crumbs": [
       "Home"
+    ]
+  },
+  {
+    "objectID": "index.html#students",
+    "href": "index.html#students",
+    "title": "Shared Seas Lab: Lab Manual",
+    "section": "Students",
+    "text": "Students\n\n\n\n\n\n\nBella Garfield (MSc)",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "content/Species_interest.html",
+    "href": "content/Species_interest.html",
+    "title": "Species of Interest",
+    "section": "",
+    "text": "Mobula birostris (Giant devil Ray)\nMobula mobular (Spinetail devil ray)\nMobula thurstoni (Smooth tail or Bentfin devil ray)\nMobula tarapacana (Chilean devil ray)\nMobula munkiana (Munk’s devil ray)\n\n\n\nMobulids can reach 40+ years of age (mobula birostris) or 15 - 20 years for smaller species. They reach maturity between 6 - 8 years of age. They reproduce every 2 - 7 years, typically producing one pup per pregnancy. Mobulids have one of the lowest population growth among elasmobranch species, making them particularly vulnerable to population collapse.",
+    "crumbs": [
+      "Species of Interest"
+    ]
+  },
+  {
+    "objectID": "content/Species_interest.html#mobulids",
+    "href": "content/Species_interest.html#mobulids",
+    "title": "Species of Interest",
+    "section": "",
+    "text": "Mobula birostris (Giant devil Ray)\nMobula mobular (Spinetail devil ray)\nMobula thurstoni (Smooth tail or Bentfin devil ray)\nMobula tarapacana (Chilean devil ray)\nMobula munkiana (Munk’s devil ray)\n\n\n\nMobulids can reach 40+ years of age (mobula birostris) or 15 - 20 years for smaller species. They reach maturity between 6 - 8 years of age. They reproduce every 2 - 7 years, typically producing one pup per pregnancy. Mobulids have one of the lowest population growth among elasmobranch species, making them particularly vulnerable to population collapse.",
+    "crumbs": [
+      "Species of Interest"
     ]
   },
   {
@@ -25,5 +55,36 @@
     "title": "Acknowledgements",
     "section": "",
     "text": "This repo and Github Action was based on the tutorial by Openscapes quarto-website-tutorial by Julia Lowndes and Stefanie Butland"
+  },
+  {
+    "objectID": "content/Collaborators.html",
+    "href": "content/Collaborators.html",
+    "title": "Collaborators and Partners",
+    "section": "",
+    "text": "Mobula Conservation Project",
+    "crumbs": [
+      "Home",
+      "Collaborators"
+    ]
+  },
+  {
+    "objectID": "content/Products.html#info-graphics",
+    "href": "content/Products.html#info-graphics",
+    "title": "Products",
+    "section": "Info-graphics",
+    "text": "Info-graphics",
+    "crumbs": [
+      "Products"
+    ]
+  },
+  {
+    "objectID": "content/Data_repositories.html",
+    "href": "content/Data_repositories.html",
+    "title": "Data types",
+    "section": "",
+    "text": "Data sources used for our research: - DNA samples - Observer data - Social data",
+    "crumbs": [
+      "Data sources"
+    ]
   }
 ]
