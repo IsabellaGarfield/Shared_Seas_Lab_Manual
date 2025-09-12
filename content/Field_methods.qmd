@@ -1,5 +1,12 @@
 ---
-title: "Field_methods"
+title: "Field methods"
 format: html
 ---
 
+Fieldwork is conducted on high-seas tuna vessels registered with the 
+
+## Vessel types
+
+## Data collection protocol
+
+## Expectations / best practices
