@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.34">
+<meta name="generator" content="quarto-1.8.24">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -29,22 +29,23 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<link href="./content/add-content.html" rel="next">
+<link href="./content/Shared_values.html" rel="next">
 <link href="./images/favicon.ico" rel="icon">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-c8ad9e5dbd60b7b70b38521ab19b7da4.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-befe23ebd2f54d8af2c8a89d1a1611f1.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-c8ad9e5dbd60b7b70b38521ab19b7da4.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dc55a5b9e770e841cd82e46aadbfb9b0.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-b651517ce65839d647a86e2780455cfb.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dc55a5b9e770e841cd82e46aadbfb9b0.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-70531095e1a4cf87cf7175c1360b6965.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark-b4c19dc6ff3d3c1bf0a590fe4505266e.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
-<link href="site_libs/bootstrap/bootstrap-70531095e1a4cf87cf7175c1360b6965.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-b68b14291fce0367c2cd0b7f2d3b5158.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-dark-6878c03325e4b83cf38f0baaf9c01681.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="site_libs/bootstrap/bootstrap-b68b14291fce0367c2cd0b7f2d3b5158.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -262,7 +263,8 @@ ul.task-list li input[type="checkbox"] {
   <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation docked overflow-auto">
     <div class="pt-lg-2 mt-2 text-center sidebar-header">
       <a href="./index.html" class="sidebar-logo-link">
-      <img src="./images/boats.jpeg" alt="" class="sidebar-logo py-0 d-lg-inline d-none">
+      <img src="./images/boats.jpeg" alt="" class="sidebar-logo light-content py-0 d-lg-inline d-none">
+      <img src="./images/boats.jpeg" alt="" class="sidebar-logo dark-content py-0 d-lg-inline d-none">
       </a>
       <div class="sidebar-tools-main tools-wide">
     <a href="https://nmfs-opensci.github.io" title="NMFS Open Science" class="quarto-navigation-tool px-1" aria-label="NMFS Open Science"><i class="bi bi-globe"></i></a>
@@ -277,45 +279,68 @@ ul.task-list li input[type="checkbox"] {
         </div>
     <div class="sidebar-menu-container"> 
     <ul class="list-unstyled mt-1">
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./index.html" class="sidebar-item-text sidebar-link active">
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a href="./index.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text">Home</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./content/Shared_values.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Shared Values</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./content/Collaborators.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Collaborators</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./content/Species_interest.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Species of Interest</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./content/add-content.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Add content</span></a>
+  <a href="./content/Data_repositories.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Data sources</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./content/customizing.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Customizing</span></a>
+  <a href="./content/Hardware.Rmd" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Hardware</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./content/rendering.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Rendering</span></a>
+  <a href="./content/Field_methods.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Field Methods</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./content/rmarkdown.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">R Markdown files</span></a>
+  <a href="./content/Software.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Software</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./content/code.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Code in your files</span></a>
+  <a href="./content/Products.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Products</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./content/acknowledgements.html" class="sidebar-item-text sidebar-link">
+  <a href="./content/Acknowledgements.qmd" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Acknowledgements</span></a>
   </div>
 </li>
@@ -329,7 +354,10 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#github-set-up" id="toc-github-set-up" class="nav-link active" data-scroll-target="#github-set-up">GitHub Set-up</a></li>
+  <li><a href="#team-members" id="toc-team-members" class="nav-link active" data-scroll-target="#team-members">Team Members</a>
+  <ul class="collapse">
+  <li><a href="#principle-investigator" id="toc-principle-investigator" class="nav-link" data-scroll-target="#principle-investigator">Principle Investigator</a></li>
+  </ul></li>
   </ul>
 <div class="toc-actions"><ul><li><a href="https://github.com/IsabellaGarfield/Shared_Seas_Lab_Manual/edit/main/index.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/IsabellaGarfield/Shared_Seas_Lab_Manual/blob/main/index.qmd" class="toc-action"><i class="bi empty"></i>View source</a></li><li><a href="https://github.com/IsabellaGarfield/Shared_Seas_Lab_Manual/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
     </div>
@@ -356,17 +384,25 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>Welcome to SMAST’s Shared Seas Lab!</p>
-<section id="github-set-up" class="level2">
-<h2 class="anchored" data-anchor-id="github-set-up">GitHub Set-up</h2>
-<ul>
-<li><p>Click the green “use template” button to make a repository with this content. Make sure to make your repo public (since GitHub Pages doesn’t work on private repos unless you have a paid account) and check box to include all the branches (so that you get the gh-pages branch). <img width="637" alt="image" src="https://user-images.githubusercontent.com/2545978/197051535-c43c62de-17e8-40bf-a536-3eea8db250c4.png"></p></li>
-<li><p>Turn on GitHub Pages under Settings &gt; Pages . You will set pages to be made from the gh-pages branch and root directory. <img width="540" alt="image" src="https://user-images.githubusercontent.com/2545978/196808262-3d2262be-b9b5-4897-bba5-fc2f056dd335.png"></p></li>
-<li><p>Turn on GitHub Actions under Settings &gt; Actions &gt; General <img width="719" alt="image" src="https://user-images.githubusercontent.com/2545978/196808404-0c075fcf-db03-4516-88dd-3143b9fca475.png"></p></li>
-<li><p>Edit the repo description and Readme to add a link to the webpage. When you edit the description, you will see the link url in the url box or you can click on the Actions tab or the Settings &gt; Pages page to find the url.</p></li>
-</ul>
+<p><br>
+Welcome to the Shared Seas Lab!</p>
+<p>This site serves as the comprehensive lab manual for the Shared Seas Lab, located on UMass Dartmouth’s <a href="https://www.umassd.edu/smast/">School for Marine Science and Technology</a> campus with the Department of Fisheries Oceanography (DFO).</p>
+<section id="team-members" class="level2">
+<h2 class="anchored" data-anchor-id="team-members">Team Members</h2>
+<section id="principle-investigator" class="level3">
+<h3 class="anchored" data-anchor-id="principle-investigator">Principle Investigator</h3>
+<div class="columns">
+<div class="column" style="width:30%;">
+<p><img src="images/profile_pictures/Cronin.jpeg" class="img-fluid"></p>
+</div><div class="column" style="width:5%;">
+
+</div><div class="column" style="width:30%;">
+<p><a href="https://melcronin.com/">Melissa Cronin</a></p>
+</div>
+</div>
 
 
+</section>
 </section>
 
 </main> <!-- /main -->
@@ -434,13 +470,14 @@ ul.task-list li input[type="checkbox"] {
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy
@@ -786,8 +823,8 @@ ul.task-list li input[type="checkbox"] {
   <div class="nav-page nav-page-previous">
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./content/add-content.html" class="pagination-link" aria-label="Add content">
-        <span class="nav-page-text">Add content</span> <i class="bi bi-arrow-right-short"></i>
+      <a href="./content/Shared_values.html" class="pagination-link" aria-label="Shared Values">
+        <span class="nav-page-text">Shared Values</span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>
