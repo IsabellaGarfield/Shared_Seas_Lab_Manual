@@ -1,5 +1,18 @@
 ---
-title: "Species_interest"
+title: "Species of Interest"
 format: html
 ---
+
+## Mobulids
+
+- *Mobula birostris* (Giant devil Ray)
+- *Mobula mobular* (Spinetail devil ray)
+- *Mobula thurstoni* (Smooth tail or Bentfin devil ray)
+- *Mobula tarapacana* (Chilean devil ray)
+- *Mobula munkiana* (Munk's devil ray)
+
+### Life history
+
+Mobulids can reach 40+ years of age (*mobula birostris*) or 15 - 20 years for smaller species. They reach maturity between 6 - 8 years of age. They reproduce every 2 - 7 years, typically producing one pup per pregnancy. Mobulids have one of the lowest population growth among elasmobranch species, making them particularly vulnerable to population collapse.  
+
 

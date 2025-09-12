@@ -5,11 +5,13 @@ page-layout: full
 \
 Welcome to the Shared Seas Lab!
 
-This site serves as the comprehensive lab manual for the Shared Seas Lab, located on UMass Dartmouth's [School for Marine Science and Technology](https://www.umassd.edu/smast/) campus with the Department of Fisheries Oceanography (DFO). 
+This site serves as the comprehensive lab manual for the Shared Seas Lab, located on UMass Dartmouth's [School for Marine Science and Technology](https://www.umassd.edu/smast/) campus within the Department of Fisheries Oceanography (DFO). 
+
+The Shared Seas Lab uses interdisciplinary approaches to identify and implement mobulid bycatch mitigation strategies for eastern Pacific tuna fisheries. 
 
 ## Team Members
 
-### Principle Investigator
+### Principle Investigator: [Melissa Cronin](https://melcronin.com/)
 
 :::::::::::::: {.columns}
 ::: {.column width="30%"}
@@ -22,9 +24,24 @@ This site serves as the comprehensive lab manual for the Shared Seas Lab, locate
 :::
 ::: {.column width=30%}
 
-[Melissa Cronin](https://melcronin.com/)
 
 :::
 ::::::::::::::
 
+## Students
 
+:::::::::::::: {.columns}
+::: {.column width="50%"}
+
+![](images/profile_pictures/Garfield.jpeg)
+
+:::
+::: {.column width=5%}
+
+:::
+::: {.column width=30%}
+
+Bella Garfield (MSc)
+
+:::
+::::::::::::::

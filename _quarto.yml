@@ -15,7 +15,7 @@ website:
   
   sidebar:
     background: "#D9E3E4"
-    logo: images/boats.jpeg
+    logo: images/Ray.png
     favicon: images/favicon.ico
     pinned: true
     align: center
