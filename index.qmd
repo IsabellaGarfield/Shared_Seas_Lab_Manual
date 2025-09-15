@@ -16,7 +16,7 @@ The Shared Seas Lab uses interdisciplinary approaches to identify and implement 
 :::::::::::::: {.columns}
 ::: {.column width="30%"}
 
-![](images/profile_pictures/Cronin.jpeg)
+![](images/profile_pictures/Cronin.jpeg){width=90%}
 
 :::
 ::: {.column width=5%}
@@ -33,7 +33,7 @@ The Shared Seas Lab uses interdisciplinary approaches to identify and implement 
 :::::::::::::: {.columns}
 ::: {.column width="50%"}
 
-![](images/profile_pictures/Garfield.jpeg)
+![](images/profile_pictures/Garfield.jpeg){width=90%}
 
 :::
 ::: {.column width=5%}
