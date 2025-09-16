@@ -94,7 +94,10 @@
     "href": "content/acknowledgements.html",
     "title": "Acknowledgements",
     "section": "",
-    "text": "This repo and Github Action was based on the tutorial by Openscapes quarto-website-tutorial by Julia Lowndes and Stefanie Butland"
+    "text": "This repo and Github Action was based on the tutorial by Openscapes quarto-website-tutorial by Julia Lowndes and Stefanie Butland",
+    "crumbs": [
+      "Acknowledgements"
+    ]
   },
   {
     "objectID": "content/Collaborators.html",
