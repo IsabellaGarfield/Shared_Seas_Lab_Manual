@@ -42,7 +42,7 @@ website:
         text: Species of Interest
       - href: content/Data_repositories.qmd
         text: Data sources
-      - href: content/Hardware.Rmd
+      - href: content/Hardware.qmd
         text: Hardware
       - href: content/Field_methods.qmd
         text: Field Methods
