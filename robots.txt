@@ -1,1 +1,1 @@
-Sitemap: https://isabellagarfield.github.io/Shared_Seas_Lab_Manual/sitemap.xml
+Sitemap: https://sharedseaslab.github.io/Shared_Seas_Lab_Manual/sitemap.xml

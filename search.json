@@ -10,26 +10,6 @@
     ]
   },
   {
-    "objectID": "index.html#team-members",
-    "href": "index.html#team-members",
-    "title": "Shared Seas Lab: Lab Manual",
-    "section": "Team Members",
-    "text": "Team Members\n\nPrinciple Investigator: Melissa Cronin",
-    "crumbs": [
-      "Home"
-    ]
-  },
-  {
-    "objectID": "index.html#students",
-    "href": "index.html#students",
-    "title": "Shared Seas Lab: Lab Manual",
-    "section": "Students",
-    "text": "Students\n\n\n\n\n\n\nBella Garfield (MSc)",
-    "crumbs": [
-      "Home"
-    ]
-  },
-  {
     "objectID": "content/Species_interest.html",
     "href": "content/Species_interest.html",
     "title": "Species of Interest",
@@ -87,16 +67,6 @@
     "text": "Expectations / best practices",
     "crumbs": [
       "Field Methods"
-    ]
-  },
-  {
-    "objectID": "content/acknowledgements.html",
-    "href": "content/acknowledgements.html",
-    "title": "Acknowledgements",
-    "section": "",
-    "text": "This repo and Github Action was based on the tutorial by Openscapes quarto-website-tutorial by Julia Lowndes and Stefanie Butland",
-    "crumbs": [
-      "Acknowledgements"
     ]
   },
   {
