@@ -1,8 +1,0 @@
----
-title: "Collaborators and Partners"
-format: html
----
-
-
-
-[Mobula Conservation Project](https://www.mobulaconservationproject.com/)
