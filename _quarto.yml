@@ -50,8 +50,6 @@ website:
         text: Software
       - href: content/Products.qmd
         text: Products
-      - href: content/acknowledgements.qmd
-        text: Acknowledgements
 
 format:
   html:
