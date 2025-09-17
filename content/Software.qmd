@@ -1,5 +1,13 @@
 ---
-title: "Software"
+title: "Software Used"
 format: html
 ---
 
+### [WaveMetrics](https://www.wavemetrics.com/downloads/current)
+Used for tag analysis
+
+### [NVivo](https://lumivero.com/products/nvivo/)
+Used for qualitative data
+
+### [Dovetail](https://dovetail.com/)
+Used for coding and transcription
