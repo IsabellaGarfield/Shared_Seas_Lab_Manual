@@ -4,8 +4,8 @@ project:
 website: 
   page-navigation: true
   title: "NOAA quarto simple" 
-  site-url: "https://isabellagarfield.github.io/Shared_Seas_Lab_Manual/" 
-  repo-url: "https://github.com/IsabellaGarfield/Shared_Seas_Lab_Manual"
+  site-url: "https://sharedseaslab.github.io/Shared_Seas_Lab_Manual/" 
+  repo-url: "https://github.com/sharedseaslab/Shared_Seas_Lab_Manual"
   repo-actions: [edit, source, issue]
   favicon: images/favicon.ico
   
@@ -24,8 +24,8 @@ website:
         href: https://nmfs-opensci.github.io
         text: "NMFS Open Science"
       - icon: github
-        href: https://github.com/nmfs-opensci
-        text: "NMFS OpenSci"
+        href: https://github.com/sharedseaslab/Shared_Seas_Lab_Manual
+        text: "Lab manual repository"
 
     style: "docked"
     search: true
