@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://sharedseaslab.github.io/Shared_Seas_Lab_Manual/index.html</loc>
-    <lastmod>2025-09-22T17:38:45.775Z</lastmod>
+    <loc>https://sharedseaslab.github.io/Shared_Seas_Lab_Manual/content/Field_methods.html</loc>
+    <lastmod>2025-10-01T16:12:12.077Z</lastmod>
   </url>
   <url>
     <loc>https://sharedseaslab.github.io/Shared_Seas_Lab_Manual/content/Data_repositories.html</loc>
-    <lastmod>2025-09-22T17:38:45.765Z</lastmod>
+    <lastmod>2025-10-01T16:12:12.077Z</lastmod>
   </url>
   <url>
     <loc>https://sharedseaslab.github.io/Shared_Seas_Lab_Manual/content/Software.html</loc>
-    <lastmod>2025-09-22T17:38:45.765Z</lastmod>
+    <lastmod>2025-10-01T16:12:12.077Z</lastmod>
   </url>
   <url>
-    <loc>https://sharedseaslab.github.io/Shared_Seas_Lab_Manual/content/Hardware.html</loc>
-    <lastmod>2025-09-22T17:38:45.765Z</lastmod>
-  </url>
-  <url>
-    <loc>https://sharedseaslab.github.io/Shared_Seas_Lab_Manual/content/Field_methods.html</loc>
-    <lastmod>2025-09-22T17:38:45.765Z</lastmod>
+    <loc>https://sharedseaslab.github.io/Shared_Seas_Lab_Manual/index.html</loc>
+    <lastmod>2025-10-01T16:12:12.086Z</lastmod>
   </url>
   <url>
     <loc>https://sharedseaslab.github.io/Shared_Seas_Lab_Manual/content/Species_interest.html</loc>
-    <lastmod>2025-09-22T17:38:45.766Z</lastmod>
+    <lastmod>2025-10-01T16:12:12.077Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sharedseaslab.github.io/Shared_Seas_Lab_Manual/content/Hardware.html</loc>
+    <lastmod>2025-10-01T16:12:12.077Z</lastmod>
   </url>
 </urlset>

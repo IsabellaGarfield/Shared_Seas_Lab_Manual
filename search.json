@@ -1,35 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Shared Seas Lab: Lab Manual",
-    "section": "",
-    "text": "Welcome to the Shared Seas Lab!\nThis site serves as the comprehensive lab manual for the Shared Seas Lab, located on UMass Dartmouth’s School for Marine Science and Technology campus within the Department of Fisheries Oceanography (DFO).\nThe Shared Seas Lab uses interdisciplinary approaches to identify and implement mobulid bycatch mitigation strategies for eastern Pacific tuna fisheries.\n\nResources:\n\nFishery and conservation related datasets\nMobulid watercolors\nAdvice for applying to NSF GRFP\nResume, coverletter and linkedin advice",
-    "crumbs": [
-      "Home"
-    ]
-  },
-  {
-    "objectID": "content/Data_repositories.html",
-    "href": "content/Data_repositories.html",
-    "title": "Data types",
-    "section": "",
-    "text": "Data sources used for our research: - DNA samples - Observer data - Social data",
-    "crumbs": [
-      "Data sources"
-    ]
-  },
-  {
-    "objectID": "content/Software.html",
-    "href": "content/Software.html",
-    "title": "Software Used",
-    "section": "",
-    "text": "WaveMetrics\nUsed for tag analysis\n\n\nNVivo\nUsed for qualitative data\n\n\nDovetail\nUsed for coding and transcription",
-    "crumbs": [
-      "Software"
-    ]
-  },
-  {
     "objectID": "content/Field_methods.html",
     "href": "content/Field_methods.html",
     "title": "Field methods",
@@ -67,6 +37,36 @@
     "text": "Expectations / best practices",
     "crumbs": [
       "Field Methods"
+    ]
+  },
+  {
+    "objectID": "content/Data_repositories.html",
+    "href": "content/Data_repositories.html",
+    "title": "Data types",
+    "section": "",
+    "text": "Data sources used for our research: - DNA samples - Observer data - Social data",
+    "crumbs": [
+      "Data sources"
+    ]
+  },
+  {
+    "objectID": "content/Software.html",
+    "href": "content/Software.html",
+    "title": "Software Used",
+    "section": "",
+    "text": "WaveMetrics\nUsed for tag analysis\n\n\nNVivo\nUsed for qualitative data\n\n\nDovetail\nUsed for coding and transcription",
+    "crumbs": [
+      "Software"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Shared Seas Lab: Lab Manual",
+    "section": "",
+    "text": "Welcome to the Shared Seas Lab!\nThis site serves as the comprehensive lab manual for the Shared Seas Lab, located on UMass Dartmouth’s School for Marine Science and Technology campus within the Department of Fisheries Oceanography (DFO).\nThe Shared Seas Lab uses interdisciplinary approaches to identify and implement mobulid bycatch mitigation strategies for eastern Pacific tuna fisheries.\n\nResources:\n\nFishery and conservation related datasets\nMobulid watercolors\nAdvice for applying to NSF GRFP\nResume, coverletter and linkedin advice\n\n\n\nLab Logistics\n\nGrant tracking",
+    "crumbs": [
+      "Home"
     ]
   },
   {
