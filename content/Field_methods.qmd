@@ -5,7 +5,7 @@ format: html
 
 Fieldwork is conducted on high-seas tuna vessels registered with the 
 
-## Vessel types
+## Vessel types  
 
 ## Data collection protocol
 
